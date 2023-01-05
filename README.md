@@ -1,1 +1,1 @@
-[![Alt text](relative/path/to/img.jpg?raw=true "Title")](https://imgur.com/a/DtyzKYZ)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/DtyzKYZ" data-context="false" ><a href="//imgur.com/a/DtyzKYZ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
